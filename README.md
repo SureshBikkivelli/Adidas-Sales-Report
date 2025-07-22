@@ -60,7 +60,7 @@ To fully utilize the dashboard, please follow these steps:
 
 ## Dashboard Preview
 
-![Adidas Sales Dashboard](https://github.com/shivasai45/Adidas-Sales-Report/blob/main/Adidas_Image.png)
+![Adidas Sales Dashboard](https://github.com/SureshBikkivelli/Adidas-Sales-Report/blob/main/Adidas_Image.png)
 
 This image provides a quick overview of the dashboard layout, including sales metrics, demographic analysis, geographic insights, and revenue trends.
 

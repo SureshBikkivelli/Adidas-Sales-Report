@@ -72,7 +72,7 @@ This image provides a quick overview of the dashboard layout, including sales me
 
 ## Analysis Sheet
 
-The detailed analysis of the Adidas sales data is available in this [here](https://github.com/shivasai45/Adidas-Sales-Report/blob/main/Adidas_Analysis.xlsx) file. This includes various insights and data visualizations based on the transformed data. This report contains:
+The detailed analysis of the Adidas sales data is available in this [here](https://github.com/SureshBikkivelli/Adidas-Sales-Report/blob/main/Adidas_Analysis.xlsx) file. This includes various insights and data visualizations based on the transformed data. This report contains:
 - In-depth data analysis and visualizations.
 - Key metrics and trends identified from the sales data.
 - Recommendations based on the analysis.
